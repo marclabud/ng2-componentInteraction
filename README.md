@@ -2,7 +2,7 @@
 
 [Component Communication Examples](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
 
-liveexample from plunkr updated with package.json from [Angular Quickstart Repo](https://github.com/angular/quickstart)
+liveexample from plunkr updated with [package.json from Angular Quickstart Repo](https://github.com/angular/quickstart/package.json)
 
 ###Lessons learned:
 
